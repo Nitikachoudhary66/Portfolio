@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository! This project showcases my skills, projects, and achievements as a web developer and data analyst.
 
-project link:"*****https://nitika-portofolio.netlify.app/****"
+project link:"*****https://nitpersonal-portfolio.netlify.app/****"
 
 ## Features
 
